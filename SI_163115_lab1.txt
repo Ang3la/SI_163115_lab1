@@ -1,0 +1,11 @@
+-touch l1.txt
+-git add l1.txt
+-git status
+-git commit -m 'Initial commit'
+-git add .
+-git commit -m 'modify l1.txt'
+-git add remote
+https://github.com/Ang3la/SI_163115_lab1.git
+-git push origin master
+-git branch loggin
+-git merge loggin
